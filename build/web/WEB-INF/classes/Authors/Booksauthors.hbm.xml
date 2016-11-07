@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Oct 29, 2016 3:31:09 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="Authors.Booksauthors" table="booksauthors" catalog="bookstore" optimistic-lock="version">
+        <composite-id name="id" class="Authors.BooksauthorsId">
+            <key-property name="isbn" type="string">
+                <column name="ISBN" length="13" />
+            </key-property>
+            <key-property name="authorId" type="string">
+                <column name="Author_Id" length="4" />
+            </key-property>
+        </composite-id>
+        <property name="seqNo" type="java.lang.Integer">
+            <column name="Seq_No" />
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/src/java/Authors/ListController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/web/authors.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/src/java/Authors/AuthorsService.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/web/addauthors.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/src/java/Authors/AddAuthorsController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/web/authorslistbyid.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/src/java/Authors/SearchControllerById.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/web/autherlist.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/web/index.xhtml</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/src/java/Authors/SearchController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/src/java/Authors/Authors.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/realbookstore/src/java/Authors/Authors.hbm.xml</file>
+        </group>
+    </open-files>
+</project-private>

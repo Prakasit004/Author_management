@@ -1,0 +1,20 @@
+SMAP
+autherlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 autherlist.jsp
+autherlist.jsp
+*L
+5,19:46
+24,9:66
+32,8:75
+39,2:83
+40,2:85
+42,2:87,3
+44,2:93
+46:95,3
+47,5:98
+53,9:105
+61,5:114
+*E
